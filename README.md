@@ -7,6 +7,6 @@ This project uses NodeJS and MongoDB. This project aims to have:
 * OAuth authentication
 
 I started keeping a version of the file at the end of different lessons.  
-* appPostingData.js is the project at the end of Lesson 4, Posting Data.
+* appPostingData.js is the project in Lesson 4, Posting Data prior to cleanup.
 
 As we develop this project. This page will reflect the documentation to install, run, maintain and operate it. 
