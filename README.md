@@ -6,4 +6,7 @@ This project uses NodeJS and MongoDB. This project aims to have:
 * Unit testing of the API
 * OAuth authentication
 
+I started keeping a version of the file at the end of different lessons.  
+* appPostingData.js is the project at the end of Lesson 4, Posting Data.
+
 As we develop this project. This page will reflect the documentation to install, run, maintain and operate it. 
