@@ -9,7 +9,7 @@ const db = mongoose.connect('mongodb://localhost/bookAPI', { useNewUrlParser: tr
 const app = express();
 const bookRouter = express.Router();
 const port = process.env.PORT || 3000;
-const Book = require('./models/bookModel');
+const Book = require('../models/bookModel');
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
